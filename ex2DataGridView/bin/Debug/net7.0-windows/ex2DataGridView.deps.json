@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ex2DataGridView/1.0.0": {
+        "runtime": {
+          "ex2DataGridView.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ex2DataGridView/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

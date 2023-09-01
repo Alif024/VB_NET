@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="COT"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-05-29 10:09:39 AM"/>
+        <attribute name="created" value="Q09UO0RFU0tUT1AtNFZVTE1SSjsyMDIzLTA1LTI5OzA5OjMxOjAxIEFNOzI2MTE="/>
+        <attribute name="edited" value="Q09UO0RFU0tUT1AtNFZVTE1SSjsyMDIzLTA1LTI5OzEwOjA5OjM5IEFNOzE7MjcyNw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="a, b, c, d" type="Real" array="False" size=""/>
+            <declare name="e" type="Integer" array="False" size=""/>
+            <input variable="d"/>
+            <input variable="e"/>
+            <assign variable="a" expression="e * d"/>
+            <assign variable="b" expression="a * 5 /100"/>
+            <assign variable="c" expression="a - b"/>
+            <output expression="a &amp; &quot; &quot; &amp; b &amp;&quot; &quot; &amp;  c" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

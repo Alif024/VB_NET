@@ -1,0 +1,17 @@
+I:\lif024\test2545\bin\Debug\net6.0-windows\test2545.exe
+I:\lif024\test2545\bin\Debug\net6.0-windows\test2545.deps.json
+I:\lif024\test2545\bin\Debug\net6.0-windows\test2545.runtimeconfig.json
+I:\lif024\test2545\bin\Debug\net6.0-windows\test2545.dll
+I:\lif024\test2545\bin\Debug\net6.0-windows\test2545.pdb
+I:\lif024\test2545\obj\Debug\net6.0-windows\test2545.vbproj.AssemblyReference.cache
+I:\lif024\test2545\obj\Debug\net6.0-windows\test2545.Form1.resources
+I:\lif024\test2545\obj\Debug\net6.0-windows\test2545.vbproj.GenerateResource.cache
+I:\lif024\test2545\obj\Debug\net6.0-windows\test2545.GeneratedMSBuildEditorConfig.editorconfig
+I:\lif024\test2545\obj\Debug\net6.0-windows\test2545.AssemblyInfoInputs.cache
+I:\lif024\test2545\obj\Debug\net6.0-windows\test2545.AssemblyInfo.vb
+I:\lif024\test2545\obj\Debug\net6.0-windows\test2545.vbproj.CoreCompileInputs.cache
+I:\lif024\test2545\obj\Debug\net6.0-windows\test2545.dll
+I:\lif024\test2545\obj\Debug\net6.0-windows\refint\test2545.dll
+I:\lif024\test2545\obj\Debug\net6.0-windows\test2545.pdb
+I:\lif024\test2545\obj\Debug\net6.0-windows\test2545.genruntimeconfig.cache
+I:\lif024\test2545\obj\Debug\net6.0-windows\ref\test2545.dll

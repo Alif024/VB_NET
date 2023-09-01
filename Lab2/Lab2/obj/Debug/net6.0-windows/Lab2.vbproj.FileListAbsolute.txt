@@ -1,0 +1,17 @@
+I:\lif024\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.exe
+I:\lif024\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.deps.json
+I:\lif024\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.runtimeconfig.json
+I:\lif024\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.dll
+I:\lif024\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.pdb
+I:\lif024\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.vbproj.AssemblyReference.cache
+I:\lif024\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.Form1.resources
+I:\lif024\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.vbproj.GenerateResource.cache
+I:\lif024\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+I:\lif024\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.AssemblyInfoInputs.cache
+I:\lif024\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.AssemblyInfo.vb
+I:\lif024\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.vbproj.CoreCompileInputs.cache
+I:\lif024\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.dll
+I:\lif024\Lab2\Lab2\obj\Debug\net6.0-windows\refint\Lab2.dll
+I:\lif024\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.pdb
+I:\lif024\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.genruntimeconfig.cache
+I:\lif024\Lab2\Lab2\obj\Debug\net6.0-windows\ref\Lab2.dll

@@ -1,0 +1,17 @@
+I:\lif024\while1\bin\Debug\net6.0-windows\while1.exe
+I:\lif024\while1\bin\Debug\net6.0-windows\while1.deps.json
+I:\lif024\while1\bin\Debug\net6.0-windows\while1.runtimeconfig.json
+I:\lif024\while1\bin\Debug\net6.0-windows\while1.dll
+I:\lif024\while1\bin\Debug\net6.0-windows\while1.pdb
+I:\lif024\while1\obj\Debug\net6.0-windows\while1.vbproj.AssemblyReference.cache
+I:\lif024\while1\obj\Debug\net6.0-windows\while1.Form1.resources
+I:\lif024\while1\obj\Debug\net6.0-windows\while1.vbproj.GenerateResource.cache
+I:\lif024\while1\obj\Debug\net6.0-windows\while1.GeneratedMSBuildEditorConfig.editorconfig
+I:\lif024\while1\obj\Debug\net6.0-windows\while1.AssemblyInfoInputs.cache
+I:\lif024\while1\obj\Debug\net6.0-windows\while1.AssemblyInfo.vb
+I:\lif024\while1\obj\Debug\net6.0-windows\while1.vbproj.CoreCompileInputs.cache
+I:\lif024\while1\obj\Debug\net6.0-windows\while1.dll
+I:\lif024\while1\obj\Debug\net6.0-windows\refint\while1.dll
+I:\lif024\while1\obj\Debug\net6.0-windows\while1.pdb
+I:\lif024\while1\obj\Debug\net6.0-windows\while1.genruntimeconfig.cache
+I:\lif024\while1\obj\Debug\net6.0-windows\ref\while1.dll

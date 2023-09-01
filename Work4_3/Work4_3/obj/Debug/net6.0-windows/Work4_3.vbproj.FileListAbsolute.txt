@@ -1,0 +1,17 @@
+I:\lif024\Work4_3\Work4_3\bin\Debug\net6.0-windows\Work4_3.exe
+I:\lif024\Work4_3\Work4_3\bin\Debug\net6.0-windows\Work4_3.deps.json
+I:\lif024\Work4_3\Work4_3\bin\Debug\net6.0-windows\Work4_3.runtimeconfig.json
+I:\lif024\Work4_3\Work4_3\bin\Debug\net6.0-windows\Work4_3.dll
+I:\lif024\Work4_3\Work4_3\bin\Debug\net6.0-windows\Work4_3.pdb
+I:\lif024\Work4_3\Work4_3\obj\Debug\net6.0-windows\Work4_3.vbproj.AssemblyReference.cache
+I:\lif024\Work4_3\Work4_3\obj\Debug\net6.0-windows\Work4_3.Form1.resources
+I:\lif024\Work4_3\Work4_3\obj\Debug\net6.0-windows\Work4_3.vbproj.GenerateResource.cache
+I:\lif024\Work4_3\Work4_3\obj\Debug\net6.0-windows\Work4_3.GeneratedMSBuildEditorConfig.editorconfig
+I:\lif024\Work4_3\Work4_3\obj\Debug\net6.0-windows\Work4_3.AssemblyInfoInputs.cache
+I:\lif024\Work4_3\Work4_3\obj\Debug\net6.0-windows\Work4_3.AssemblyInfo.vb
+I:\lif024\Work4_3\Work4_3\obj\Debug\net6.0-windows\Work4_3.vbproj.CoreCompileInputs.cache
+I:\lif024\Work4_3\Work4_3\obj\Debug\net6.0-windows\Work4_3.dll
+I:\lif024\Work4_3\Work4_3\obj\Debug\net6.0-windows\refint\Work4_3.dll
+I:\lif024\Work4_3\Work4_3\obj\Debug\net6.0-windows\Work4_3.pdb
+I:\lif024\Work4_3\Work4_3\obj\Debug\net6.0-windows\Work4_3.genruntimeconfig.cache
+I:\lif024\Work4_3\Work4_3\obj\Debug\net6.0-windows\ref\Work4_3.dll

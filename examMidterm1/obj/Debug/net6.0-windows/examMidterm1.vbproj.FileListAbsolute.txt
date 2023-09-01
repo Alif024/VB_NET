@@ -1,0 +1,17 @@
+I:\lif024\examMidterm1\bin\Debug\net6.0-windows\examMidterm1.exe
+I:\lif024\examMidterm1\bin\Debug\net6.0-windows\examMidterm1.deps.json
+I:\lif024\examMidterm1\bin\Debug\net6.0-windows\examMidterm1.runtimeconfig.json
+I:\lif024\examMidterm1\bin\Debug\net6.0-windows\examMidterm1.dll
+I:\lif024\examMidterm1\bin\Debug\net6.0-windows\examMidterm1.pdb
+I:\lif024\examMidterm1\obj\Debug\net6.0-windows\examMidterm1.vbproj.AssemblyReference.cache
+I:\lif024\examMidterm1\obj\Debug\net6.0-windows\examMidterm1.Form1.resources
+I:\lif024\examMidterm1\obj\Debug\net6.0-windows\examMidterm1.vbproj.GenerateResource.cache
+I:\lif024\examMidterm1\obj\Debug\net6.0-windows\examMidterm1.GeneratedMSBuildEditorConfig.editorconfig
+I:\lif024\examMidterm1\obj\Debug\net6.0-windows\examMidterm1.AssemblyInfoInputs.cache
+I:\lif024\examMidterm1\obj\Debug\net6.0-windows\examMidterm1.AssemblyInfo.vb
+I:\lif024\examMidterm1\obj\Debug\net6.0-windows\examMidterm1.vbproj.CoreCompileInputs.cache
+I:\lif024\examMidterm1\obj\Debug\net6.0-windows\examMidterm1.dll
+I:\lif024\examMidterm1\obj\Debug\net6.0-windows\refint\examMidterm1.dll
+I:\lif024\examMidterm1\obj\Debug\net6.0-windows\examMidterm1.pdb
+I:\lif024\examMidterm1\obj\Debug\net6.0-windows\examMidterm1.genruntimeconfig.cache
+I:\lif024\examMidterm1\obj\Debug\net6.0-windows\ref\examMidterm1.dll

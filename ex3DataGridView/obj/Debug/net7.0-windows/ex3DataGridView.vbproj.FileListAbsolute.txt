@@ -1,0 +1,17 @@
+I:\lif024\ex3DataGridView\bin\Debug\net7.0-windows\ex3DataGridView.exe
+I:\lif024\ex3DataGridView\bin\Debug\net7.0-windows\ex3DataGridView.deps.json
+I:\lif024\ex3DataGridView\bin\Debug\net7.0-windows\ex3DataGridView.runtimeconfig.json
+I:\lif024\ex3DataGridView\bin\Debug\net7.0-windows\ex3DataGridView.dll
+I:\lif024\ex3DataGridView\bin\Debug\net7.0-windows\ex3DataGridView.pdb
+I:\lif024\ex3DataGridView\obj\Debug\net7.0-windows\ex3DataGridView.vbproj.AssemblyReference.cache
+I:\lif024\ex3DataGridView\obj\Debug\net7.0-windows\ex3DataGridView.Form1.resources
+I:\lif024\ex3DataGridView\obj\Debug\net7.0-windows\ex3DataGridView.vbproj.GenerateResource.cache
+I:\lif024\ex3DataGridView\obj\Debug\net7.0-windows\ex3DataGridView.GeneratedMSBuildEditorConfig.editorconfig
+I:\lif024\ex3DataGridView\obj\Debug\net7.0-windows\ex3DataGridView.AssemblyInfoInputs.cache
+I:\lif024\ex3DataGridView\obj\Debug\net7.0-windows\ex3DataGridView.AssemblyInfo.vb
+I:\lif024\ex3DataGridView\obj\Debug\net7.0-windows\ex3DataGridView.vbproj.CoreCompileInputs.cache
+I:\lif024\ex3DataGridView\obj\Debug\net7.0-windows\ex3DataGridView.dll
+I:\lif024\ex3DataGridView\obj\Debug\net7.0-windows\refint\ex3DataGridView.dll
+I:\lif024\ex3DataGridView\obj\Debug\net7.0-windows\ex3DataGridView.pdb
+I:\lif024\ex3DataGridView\obj\Debug\net7.0-windows\ex3DataGridView.genruntimeconfig.cache
+I:\lif024\ex3DataGridView\obj\Debug\net7.0-windows\ref\ex3DataGridView.dll

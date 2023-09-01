@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="COT"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-05-15 10:23:42 AM"/>
+        <attribute name="created" value="Q09UO0RFU0tUT1AtNFZVTE1SSjsyMDIzLTA1LTE1OzEwOjAwOjQ1IEFNOzI2MDI="/>
+        <attribute name="edited" value="Q09UO0RFU0tUT1AtNFZVTE1SSjsyMDIzLTA1LTE1OzEwOjIzOjQyIEFNOzE7MjcxMg=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="base, high, area" type="Integer" array="False" size=""/>
+            <input variable="base"/>
+            <input variable="high"/>
+            <assign variable="area" expression="(base * high)/2"/>
+            <output expression="area" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

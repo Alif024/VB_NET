@@ -1,0 +1,15 @@
+I:\lif024\testSelections\bin\Debug\net6.0\testSelections.exe
+I:\lif024\testSelections\bin\Debug\net6.0\testSelections.deps.json
+I:\lif024\testSelections\bin\Debug\net6.0\testSelections.runtimeconfig.json
+I:\lif024\testSelections\bin\Debug\net6.0\testSelections.dll
+I:\lif024\testSelections\bin\Debug\net6.0\testSelections.pdb
+I:\lif024\testSelections\obj\Debug\net6.0\testSelections.vbproj.AssemblyReference.cache
+I:\lif024\testSelections\obj\Debug\net6.0\testSelections.GeneratedMSBuildEditorConfig.editorconfig
+I:\lif024\testSelections\obj\Debug\net6.0\testSelections.AssemblyInfoInputs.cache
+I:\lif024\testSelections\obj\Debug\net6.0\testSelections.AssemblyInfo.vb
+I:\lif024\testSelections\obj\Debug\net6.0\testSelections.vbproj.CoreCompileInputs.cache
+I:\lif024\testSelections\obj\Debug\net6.0\testSelections.dll
+I:\lif024\testSelections\obj\Debug\net6.0\refint\testSelections.dll
+I:\lif024\testSelections\obj\Debug\net6.0\testSelections.pdb
+I:\lif024\testSelections\obj\Debug\net6.0\testSelections.genruntimeconfig.cache
+I:\lif024\testSelections\obj\Debug\net6.0\ref\testSelections.dll
