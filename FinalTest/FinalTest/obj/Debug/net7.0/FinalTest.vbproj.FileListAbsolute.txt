@@ -1,0 +1,14 @@
+F:\VB_NET\FinalTest\FinalTest\bin\Debug\net7.0\FinalTest.exe
+F:\VB_NET\FinalTest\FinalTest\bin\Debug\net7.0\FinalTest.deps.json
+F:\VB_NET\FinalTest\FinalTest\bin\Debug\net7.0\FinalTest.runtimeconfig.json
+F:\VB_NET\FinalTest\FinalTest\bin\Debug\net7.0\FinalTest.dll
+F:\VB_NET\FinalTest\FinalTest\bin\Debug\net7.0\FinalTest.pdb
+F:\VB_NET\FinalTest\FinalTest\obj\Debug\net7.0\FinalTest.GeneratedMSBuildEditorConfig.editorconfig
+F:\VB_NET\FinalTest\FinalTest\obj\Debug\net7.0\FinalTest.AssemblyInfoInputs.cache
+F:\VB_NET\FinalTest\FinalTest\obj\Debug\net7.0\FinalTest.AssemblyInfo.vb
+F:\VB_NET\FinalTest\FinalTest\obj\Debug\net7.0\FinalTest.vbproj.CoreCompileInputs.cache
+F:\VB_NET\FinalTest\FinalTest\obj\Debug\net7.0\FinalTest.dll
+F:\VB_NET\FinalTest\FinalTest\obj\Debug\net7.0\refint\FinalTest.dll
+F:\VB_NET\FinalTest\FinalTest\obj\Debug\net7.0\FinalTest.pdb
+F:\VB_NET\FinalTest\FinalTest\obj\Debug\net7.0\FinalTest.genruntimeconfig.cache
+F:\VB_NET\FinalTest\FinalTest\obj\Debug\net7.0\ref\FinalTest.dll
